@@ -27,7 +27,6 @@ async function main() {
 }
 
 if (require.main === module) {
-  console.log(require.main);
   main();
 }
 
